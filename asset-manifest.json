@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/for_darly_solutions/static/css/main.e6a65e49.chunk.css",
-    "main.js": "/for_darly_solutions/static/js/main.2af17d91.chunk.js",
-    "main.js.map": "/for_darly_solutions/static/js/main.2af17d91.chunk.js.map",
+    "main.js": "/for_darly_solutions/static/js/main.a6bb3ecf.chunk.js",
+    "main.js.map": "/for_darly_solutions/static/js/main.a6bb3ecf.chunk.js.map",
     "runtime-main.js": "/for_darly_solutions/static/js/runtime-main.2a4e4632.js",
     "runtime-main.js.map": "/for_darly_solutions/static/js/runtime-main.2a4e4632.js.map",
     "static/js/2.bd40ab7d.chunk.js": "/for_darly_solutions/static/js/2.bd40ab7d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a4e4632.js",
     "static/js/2.bd40ab7d.chunk.js",
     "static/css/main.e6a65e49.chunk.css",
-    "static/js/main.2af17d91.chunk.js"
+    "static/js/main.a6bb3ecf.chunk.js"
   ]
 }
