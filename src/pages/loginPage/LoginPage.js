@@ -6,11 +6,11 @@ import { AuthPageStyled } from "./AuthPageStyled";
 const LoginPage = () => {
   return (
     <AuthPageStyled>
-      <h1 className="title">Sing Up</h1>
+      <h1 className="title">Sing In</h1>
       <Login />
 
       <p className="description">
-        Do you want to register ? <Link to="/register">Sing In</Link>
+        Do you want to register ? <Link to="/register">Sing Up</Link>
       </p>
     </AuthPageStyled>
   );

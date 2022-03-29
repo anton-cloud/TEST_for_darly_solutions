@@ -10,6 +10,8 @@ export const FormStyled = styled.form`
   height: 20vh;
 
   .button {
+    margin-top: 20px;
+
     height: 46px;
     padding: 0 13px 0 23px;
     background-color: #fc7f2b;

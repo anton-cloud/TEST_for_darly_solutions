@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <NavigationStyled>
-      <a href="/">
+      <a href="https://darly.solutions/">
         <img
           src="https://darly.solutions/wp-content/uploads/2019/11/logo.svg"
           alt="logo"
